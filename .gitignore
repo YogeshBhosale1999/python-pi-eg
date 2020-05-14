@@ -1,3 +1,9 @@
 .idea/*
 .idea
 .idea/
+.idea/inspectionProfiles
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/yogi.iml
